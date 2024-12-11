@@ -112,12 +112,25 @@ https://forms.gle/2mgqNdmszYfMPCpq8
 https://forms.gle/cWWw8VLiyPYw7LbV9
 
 From the problem and solution above, please extract all the core concepts behind it.
-Explain them from scratch.
-Include some humor in your explanation.
+Then, explain them from scratch.
+Please include some engaging humor in your explanation.
 
-You are an expert in microeconomics and public policy.
-Please help to answer the following problem :
+indifference curves intersected,
+on the same indifference curve
 
+	
+
+
+true treatment effect,
+differential attrition,
+baseline characteristics,
+weighting or imputation
+
+
+Still related, I have the second problem with its solution, as shown in this picture.
+However, seems the existing solution explanation is more complicated.
+Please help to re-explain with more simple way.
+Highlight the core concepts required to solve this problem.
 
 
 
