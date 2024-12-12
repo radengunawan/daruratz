@@ -144,6 +144,18 @@ Highlight the math that may be involved.
 Make your explanation beginner-friendly and add some humor.
 
 
+You are an expert in microeconomics. 
+Please help me to understand the diagram in this picture. 
+Can you explain it mathematically? 
+Can you turn the diagram into some math?
+Make your explanation beginner-friendly and include some humor.
+
+
+
+"This means that the agent has a taste for variety"
+"there are many types of indifference curves, because there are many types of utility functions!"
+"You can always find indifference curves given a utility function by picking points that return the same value"
+
 
 
 
