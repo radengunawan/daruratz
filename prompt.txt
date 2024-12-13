@@ -157,6 +157,9 @@ Make your explanation beginner-friendly and include some humor.
 "You can always find indifference curves given a utility function by picking points that return the same value"
 
 
+You are an expert in microeconomics. I have a problem with the solution as shown in the picture. However, I feel the solution explanation is hard to digest. 
+I still feel unfamiliar with the core concepts behind it and with some terms. 
+Please help to re-explain it in beginner-friendly style and include some humor.
 
 
 
